@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/RunnRtrainingApp/static/css/main.43acd31b.css",
+    "main.js": "/RunnRtrainingApp/static/js/main.a4f97275.js",
+    "static/js/787.db79f984.chunk.js": "/RunnRtrainingApp/static/js/787.db79f984.chunk.js",
+    "static/media/Run.png": "/RunnRtrainingApp/static/media/Run.013fc02c7c00eea9cc2b.png",
+    "static/media/Run The streets.mp4": "/RunnRtrainingApp/static/media/Run The streets.e535cc204b807406f05b.mp4",
+    "static/media/OIG (10).jpg": "/RunnRtrainingApp/static/media/OIG (10).96579a798216c42f5f4b.jpg",
+    "static/media/OIG.jpg": "/RunnRtrainingApp/static/media/OIG.7d31034d7d6bb076436e.jpg",
+    "static/media/OIG.Up9D5iyFatJp.jpg": "/RunnRtrainingApp/static/media/OIG.Up9D5iyFatJp.8cf2d6fb2b6d3a177242.jpg",
+    "static/media/OIG.54ESNNh.jpg": "/RunnRtrainingApp/static/media/OIG.54ESNNh.c5cbb33c7371c23f3b86.jpg",
+    "static/media/OIG (16).jpg": "/RunnRtrainingApp/static/media/OIG (16).e57560d369818a26504b.jpg",
+    "static/media/OIG (1).jpg": "/RunnRtrainingApp/static/media/OIG (1).14aca0708d8b42c329c6.jpg",
+    "static/media/OIG (9).jpg": "/RunnRtrainingApp/static/media/OIG (9).15bbfbe8545d4fb7e81b.jpg",
+    "static/media/OIG (19).jpg": "/RunnRtrainingApp/static/media/OIG (19).86083adecf26a7d94113.jpg",
+    "static/media/runnerLogo.png": "/RunnRtrainingApp/static/media/runnerLogo.a37bc47724399f8ea9e7.png",
+    "static/media/OIG.NEqoEa6X0au.jpg": "/RunnRtrainingApp/static/media/OIG.NEqoEa6X0au.84d061cf97f383a2b1f5.jpg",
+    "index.html": "/RunnRtrainingApp/index.html",
+    "main.43acd31b.css.map": "/RunnRtrainingApp/static/css/main.43acd31b.css.map",
+    "main.a4f97275.js.map": "/RunnRtrainingApp/static/js/main.a4f97275.js.map",
+    "787.db79f984.chunk.js.map": "/RunnRtrainingApp/static/js/787.db79f984.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43acd31b.css",
+    "static/js/main.a4f97275.js"
+  ]
+}
