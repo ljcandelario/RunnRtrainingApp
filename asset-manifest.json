@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/RunnRtrainingApp/static/css/main.df81a80a.css",
-    "main.js": "/RunnRtrainingApp/static/js/main.a4f97275.js",
+    "main.css": "/RunnRtrainingApp/static/css/main.931c1f76.css",
+    "main.js": "/RunnRtrainingApp/static/js/main.19a66c4e.js",
     "static/js/787.db79f984.chunk.js": "/RunnRtrainingApp/static/js/787.db79f984.chunk.js",
     "static/media/Run.png": "/RunnRtrainingApp/static/media/Run.013fc02c7c00eea9cc2b.png",
     "static/media/Run The streets.mp4": "/RunnRtrainingApp/static/media/Run The streets.e535cc204b807406f05b.mp4",
@@ -16,12 +16,12 @@
     "static/media/runnerLogo.png": "/RunnRtrainingApp/static/media/runnerLogo.a37bc47724399f8ea9e7.png",
     "static/media/OIG.NEqoEa6X0au.jpg": "/RunnRtrainingApp/static/media/OIG.NEqoEa6X0au.84d061cf97f383a2b1f5.jpg",
     "index.html": "/RunnRtrainingApp/index.html",
-    "main.df81a80a.css.map": "/RunnRtrainingApp/static/css/main.df81a80a.css.map",
-    "main.a4f97275.js.map": "/RunnRtrainingApp/static/js/main.a4f97275.js.map",
+    "main.931c1f76.css.map": "/RunnRtrainingApp/static/css/main.931c1f76.css.map",
+    "main.19a66c4e.js.map": "/RunnRtrainingApp/static/js/main.19a66c4e.js.map",
     "787.db79f984.chunk.js.map": "/RunnRtrainingApp/static/js/787.db79f984.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.df81a80a.css",
-    "static/js/main.a4f97275.js"
+    "static/css/main.931c1f76.css",
+    "static/js/main.19a66c4e.js"
   ]
 }
